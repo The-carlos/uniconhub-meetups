@@ -1,0 +1,51 @@
+/* @theme uniconhub */
+
+/*
+ * Tema Marp mínimo para los decks de UniconHub.
+ * Punto de partida iterable: ajusta colores/tipografía en un PR aparte.
+ */
+
+@import 'default';
+
+:root {
+  --unicon-ink: #0f172a;
+  --unicon-bg: #ffffff;
+  --unicon-accent: #6d28d9;
+  --unicon-muted: #64748b;
+
+  font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+section {
+  background: var(--unicon-bg);
+  color: var(--unicon-ink);
+  padding: 70px;
+}
+
+h1 {
+  color: var(--unicon-accent);
+  font-size: 1.9em;
+}
+
+h2 {
+  color: var(--unicon-ink);
+  font-weight: 600;
+}
+
+h3 {
+  color: var(--unicon-muted);
+  font-weight: 500;
+}
+
+blockquote {
+  border-left: 6px solid var(--unicon-accent);
+  color: var(--unicon-muted);
+}
+
+table {
+  font-size: 0.9em;
+}
+
+section::after {
+  color: var(--unicon-muted);
+}
