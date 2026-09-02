@@ -14,5 +14,5 @@ Material reutilizable para cualquier edición de la meetup que Mercado Libre hos
 - `emergencias-melitlan-15.jpg` — distribución de equipos y señalización, **piso 15** (Town Hall, por confirmar)
 
 Fuente: documento "Información Emergencias Melitlan" provisto por Mercado Libre.
-Estas imágenes se usan en la slide "Planos de emergencia" del `protocolo-de-bienvenida.md`
-de cada edición hosteada aquí.
+Estas imágenes se usan en las slides "Planos de emergencia" del `protocolo-de-bienvenida.md`
+de la raíz mientras Mercado Libre sea el host.

@@ -7,12 +7,14 @@ title: Protocolo de bienvenida — UniconHub Devs Meetups
 ---
 
 <!--
-ARCHIVO MAESTRO. No lo edites para una edición concreta.
-Para cada meetup: copia este archivo a la carpeta de la edición
-(NN-mes-meetup/protocolo-de-bienvenida.md) y personaliza SOLO la slide 7
-(planos de emergencia del venue) y la slide 8 (agradecimiento al host).
-Las slides 1–6 son la identidad estable de UniconHub (incluye el protocolo
-de emergencia genérico) y cambian únicamente por PR con VoBo de Roni.
+DECK ÚNICO de bienvenida. Se proyecta tal cual en cada meetup; NO hay copias por edición.
+
+- Slides 1–6 = identidad de UniconHub (portada, qué es, origen, energía, iniciativas,
+  protocolo de emergencia genérico). Solo cambian por rama identidad/... + PR + VoBo de Roni.
+- Slides 7 en adelante (planos del venue, gracias al host, extras) = se reemplazan al
+  preparar cada edición, en una rama edNN/bienvenida + PR. Ahora reflejan la Edición 04.
+- Antes de editar para una edición nueva, taggear el deck de la anterior:
+  git tag edNN-bienvenida && git push origin edNN-bienvenida
 
 Compilar:  npx @marp-team/marp-cli@latest protocolo-de-bienvenida.md --theme-set theme/uniconhub.css --pdf --allow-local-files
 -->
@@ -108,26 +110,33 @@ siguiente (Planos de emergencia).
 
 ---
 
-# Planos de emergencia
-
 <!--
-Slide 7 — PERSONALIZAR POR EDICIÓN.
-Agregar aquí los planos / rutas de evacuación del venue de esta edición
-(imágenes en venues/<host>/). Compilar con --allow-local-files.
+SLIDES POR EDICIÓN (de aquí al final). Reemplazar al preparar cada meetup.
+Estado actual: Edición 04 — Mercado Libre, Town Hall (edificio Melitlan).
+Las slides extra de la edición (si las hay) se pegan antes de "Gracias a nuestro host";
+se redactan primero en NN-mes-meetup/bienvenida-extra.md.
 -->
 
-> _Pendiente: planos del venue de esta edición._
+# Planos de emergencia — Piso 14
+
+![h:560](venues/mercado-libre/emergencias-melitlan-14.jpg)
+
+<!-- Distribución de equipos y señalización del piso 14: ruta de evacuación, salidas, extintores, zona de menor riesgo. -->
+
+---
+
+# Planos de emergencia — Piso 15
+
+![h:560](venues/mercado-libre/emergencias-melitlan-15.jpg)
+
+<!-- Distribución de equipos y señalización del piso 15, donde está el Town Hall. -->
+<!-- CONFIRMAR con Mercado Libre en qué piso está el Town Hall y ajustar el orden si aplica. -->
 
 ---
 
 # Gracias a nuestro host
 
-<!--
-Slide 8 — PERSONALIZAR POR EDICIÓN.
-Reemplazar {{HOST}} por el anfitrión que presta el espacio y ajustar el texto.
--->
-
-Esta edición es posible gracias a **{{HOST}}**,
-que nos abre sus oficinas para hacer comunidad.
+Esta edición es posible gracias a **Mercado Libre**,
+que nos abre su Town Hall para hacer comunidad.
 
 **¡Gracias por el espacio!** 🙌
