@@ -9,18 +9,19 @@ title: Protocolo de bienvenida — UniconHub Devs Meetups
 <!--
 ARCHIVO MAESTRO. No lo edites para una edición concreta.
 Para cada meetup: copia este archivo a la carpeta de la edición
-(NN-mes-meetup/protocolo-de-bienvenida.md) y personaliza SOLO las slides 6 y 7.
-Las slides 1–5 son la identidad estable de UniconHub y cambian únicamente
-por PR con VoBo de Roni.
+(NN-mes-meetup/protocolo-de-bienvenida.md) y personaliza SOLO la slide 7
+(planos de emergencia del venue) y la slide 8 (agradecimiento al host).
+Las slides 1–6 son la identidad estable de UniconHub (incluye el protocolo
+de emergencia genérico) y cambian únicamente por PR con VoBo de Roni.
 
-Compilar:  npx @marp-team/marp-cli@latest protocolo-de-bienvenida.md --pdf --allow-local-files
+Compilar:  npx @marp-team/marp-cli@latest protocolo-de-bienvenida.md --theme-set theme/uniconhub.css --pdf --allow-local-files
 -->
 
 # UniconHub
 
 ## Build. Connect. Repeat.
 
-### Bienvenidas y bienvenidos a la meetup
+### Bienvenid@s a la meetup
 
 <!--
 Guion: dar la bienvenida, presentarte, agradecer la asistencia.
@@ -34,12 +35,10 @@ Duración objetivo: 30–45 s.
 
 Una **generación conectándose**.
 
-- **No** es una empresa
 - **No** es un evento aislado
 - **No** es un club elitista
 
-Es una sociedad creada por jóvenes del sector tecnológico: gente con ideas,
-gente que ejecuta, gente que está empezando.
+Es una comunidad creada por jóvenes del sector tecnológico: gente con ideas, gente que ejecuta, gente que está de todos los niveles.
 
 <!--
 Guion: UniconHub no es "de alguien", es de la comunidad. No importan los
@@ -97,25 +96,34 @@ hackathon comunitario. Invitar a seguir @unicon.hub para fechas.
 # Protocolo de emergencia
 
 <!--
-PENDIENTE (slide 6). Carlos redactará el protocolo GENÉRICO de UniconHub,
-válido para cualquier venue. Al personalizar por edición se rellenan solo los
-datos del lugar: salidas, punto de reunión externo, extintores, contacto del
-venue. Dejar por ahora este placeholder.
+Slide 6 — protocolo GENÉRICO de UniconHub, válido para cualquier venue.
+No se edita por edición; los datos concretos del lugar van en la slide
+siguiente (Planos de emergencia).
 -->
 
-> _Pendiente de redacción._
->
-> Al copiar este deck para una edición, completar:
-> - Salidas de emergencia del venue
-> - Punto de reunión exterior
-> - Contacto de seguridad del venue
+> Tu seguridad es muy importante para UniconHub por eso te pedimos que ante una emergencia sigamos las siguientes instrucciones:
+> - Intentemos mantener la calma en todo momento.
+> - Durante la emergencia nos moveremos a la zona de seguridad más cercana.
+> - No abandonaremos el lugar hasta que tengamos confirmación de qué es seguro desalojar.
+
+---
+
+# Planos de emergencia
+
+<!--
+Slide 7 — PERSONALIZAR POR EDICIÓN.
+Agregar aquí los planos / rutas de evacuación del venue de esta edición
+(imágenes en venues/<host>/). Compilar con --allow-local-files.
+-->
+
+> _Pendiente: planos del venue de esta edición._
 
 ---
 
 # Gracias a nuestro host
 
 <!--
-Slide 7 — PERSONALIZAR POR EDICIÓN.
+Slide 8 — PERSONALIZAR POR EDICIÓN.
 Reemplazar {{HOST}} por el anfitrión que presta el espacio y ajustar el texto.
 -->
 

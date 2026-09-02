@@ -4,19 +4,20 @@
 
 | | |
 |---|---|
-| **Fecha** | _TODO (septiembre 2026)_ |
-| **Hora** | _TODO_ |
-| **Venue** | Mercado Libre |
+| **Fecha** | Viernes 16 de octubre de 2026 |
+| **Hora** | Desde las 15:00 |
+| **Venue** | Town Hall, oficinas de Mercado Libre (edificio Melitlan) |
 | **Dirección** | _TODO_ |
 | **Aforo** | _TODO_ |
 | **Contacto del venue** | _TODO_ |
+| **Planos de emergencia** | [`../venues/mercado-libre/`](../venues/mercado-libre/) |
 
 ## Agenda
 
 | Hora | Bloque | Responsable | Notas |
 |---|---|---|---|
-| _00:00_ | Registro y check-in | _TODO_ | _—_ |
-| _00:00_ | Bienvenida | _TODO_ | Deck: `protocolo-de-bienvenida.md` |
+| 15:00 | Registro y check-in | _TODO_ | _—_ |
+| _15:xx_ | Bienvenida | _TODO_ | Deck: `protocolo-de-bienvenida.md` |
 | _00:00_ | Charla 1 | _TODO_ | _—_ |
 | _00:00_ | Charla 2 | _TODO_ | _—_ |
 | _00:00_ | Break / networking | _TODO_ | _—_ |

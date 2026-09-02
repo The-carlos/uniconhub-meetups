@@ -4,7 +4,7 @@
 
 ## Edición
 
-<!-- p. ej. 04-september-meetup  /  deck maestro de identidad -->
+<!-- p. ej. 04-october-meetup  /  deck maestro de identidad -->
 
 ## Checklist
 

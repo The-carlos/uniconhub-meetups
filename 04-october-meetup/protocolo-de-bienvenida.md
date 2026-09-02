@@ -7,12 +7,13 @@ title: Protocolo de bienvenida — UniconHub Devs Meetups · Edición 04
 ---
 
 <!--
-Copia del deck maestro (../protocolo-de-bienvenida.md) para la EDICIÓN 04.
-Personalizadas: slide 6 (protocolo de emergencia) y slide 7 (host).
-Las slides 1–5 no se editan aquí; si cambia la identidad, se actualiza el maestro.
+Copia del deck maestro (../protocolo-de-bienvenida.md) para la EDICIÓN 04
+(viernes 16 de octubre de 2026, Town Hall de Mercado Libre).
+Personalizadas: slide 7 (planos de emergencia) y slide 8 (host).
+Las slides 1–6 no se editan aquí; si cambia la identidad, se actualiza el maestro.
 
 Compilar desde la raíz del repo:
-  npx @marp-team/marp-cli@latest 04-september-meetup/protocolo-de-bienvenida.md \
+  npx @marp-team/marp-cli@latest 04-october-meetup/protocolo-de-bienvenida.md \
     --theme-set theme/uniconhub.css --pdf --allow-local-files
 -->
 
@@ -20,7 +21,7 @@ Compilar desde la raíz del repo:
 
 ## Build. Connect. Repeat.
 
-### Bienvenidas y bienvenidos a la meetup
+### Bienvenid@s a la meetup
 
 <!--
 Guion: dar la bienvenida, presentarte, agradecer la asistencia.
@@ -34,12 +35,10 @@ Duración objetivo: 30–45 s.
 
 Una **generación conectándose**.
 
-- **No** es una empresa
 - **No** es un evento aislado
 - **No** es un club elitista
 
-Es una sociedad creada por jóvenes del sector tecnológico: gente con ideas,
-gente que ejecuta, gente que está empezando.
+Es una comunidad creada por jóvenes del sector tecnológico: gente con ideas, gente que ejecuta, gente que está de todos los niveles.
 
 <!--
 Guion: UniconHub no es "de alguien", es de la comunidad. No importan los
@@ -96,26 +95,34 @@ hackathon comunitario. Invitar a seguir @unicon.hub para fechas.
 
 # Protocolo de emergencia
 
-<!--
-PENDIENTE. Se completará cuando exista el protocolo genérico de UniconHub.
-Rellenar con los datos del venue de Mercado Libre:
-- Salidas de emergencia
-- Punto de reunión exterior
-- Contacto de seguridad del venue
--->
+> Tu seguridad es muy importante para UniconHub por eso te pedimos que ante una emergencia sigamos las siguientes instrucciones:
+> - Intentemos mantener la calma en todo momento.
+> - Durante la emergencia nos moveremos a la zona de seguridad más cercana.
+> - No abandonaremos el lugar hasta que tengamos confirmación de qué es seguro desalojar.
 
-> _Pendiente de redacción._
->
-> Datos del venue (Mercado Libre) a completar:
-> - Salidas de emergencia
-> - Punto de reunión exterior
-> - Contacto de seguridad del venue
+---
+
+# Planos de emergencia — Piso 14
+
+![h:560](../venues/mercado-libre/emergencias-melitlan-14.jpg)
+
+<!-- Distribución de equipos y señalización del piso 14 (edificio Melitlan, Mercado Libre): ruta de evacuación, salidas, extintores, zona de menor riesgo. -->
+
+---
+
+# Planos de emergencia — Piso 15
+
+![h:560](../venues/mercado-libre/emergencias-melitlan-15.jpg)
+
+<!-- Distribución de equipos y señalización del piso 15, donde está el Town Hall. -->
+
+<!-- CONFIRMAR con Mercado Libre en qué piso está el Town Hall y ajustar el orden si aplica. -->
 
 ---
 
 # Gracias a nuestro host
 
 Esta edición es posible gracias a **Mercado Libre**,
-que nos abre sus oficinas para hacer comunidad.
+que nos abre su Town Hall para hacer comunidad.
 
 **¡Gracias por el espacio!** 🙌

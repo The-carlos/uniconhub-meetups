@@ -21,14 +21,14 @@ bueno final.
 
 1. **Crear la carpeta** copiando la plantilla:
    ```bash
-   cp -R _template 04-september-meetup
-   cp protocolo-de-bienvenida.md 04-september-meetup/
+   cp -R _template 04-october-meetup
+   cp protocolo-de-bienvenida.md 04-october-meetup/
    ```
 2. **`objective.md`** — el "por qué": tema, público, objetivos medibles. Se aprueba primero.
 3. **`itinerary.md`** — el "cómo y cuándo": fecha, venue, agenda, speakers, logística.
 4. **Speakers** — confirmar y reflejarlos en `itinerary.md`.
-5. **`protocolo-de-bienvenida.md`** de la carpeta — personalizar **solo las slides 6 y 7**
-   (protocolo de emergencia con datos del venue · agradecimiento al host).
+5. **`protocolo-de-bienvenida.md`** de la carpeta — personalizar **solo la slide 7**
+   (planos de emergencia del venue) y la **slide 8** (agradecimiento al host).
 6. **Post-evento** — retro y enlaces (fotos, episodio de podcast, artículos de blog)
    en el `README.md` de la edición.
 
@@ -36,8 +36,9 @@ Marca cada paso en el checklist del `README.md` de la edición.
 
 ## El deck maestro de bienvenida
 
-`protocolo-de-bienvenida.md` en la raíz es la fuente de las **slides 1–5** (identidad
-de UniconHub). Cambios ahí van en una rama `identidad/...` y también necesitan VoBo de Roni.
+`protocolo-de-bienvenida.md` en la raíz es la fuente de las **slides 1–6** (identidad
+de UniconHub, incluido el protocolo de emergencia genérico). Cambios ahí van en una rama
+`identidad/...` y también necesitan VoBo de Roni.
 
 Cada edición trabaja sobre **su propia copia**. Si el maestro cambia después de una
 edición ya realizada, esa edición queda como **registro histórico** y no se re-sincroniza.

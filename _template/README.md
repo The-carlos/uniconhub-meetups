@@ -20,7 +20,7 @@
 - [ ] **T-5 sem** — venue confirmado · `itinerary.md` v1
 - [ ] **T-4 sem** — speakers confirmados
 - [ ] **T-3 sem** — convocatoria publicada en redes
-- [ ] **T-2 sem** — `protocolo-de-bienvenida.md` personalizado (slides 6 y 7) · logística cerrada
+- [ ] **T-2 sem** — `protocolo-de-bienvenida.md` personalizado (slide 7 planos + slide 8 host) · logística cerrada
 - [ ] **T-1 sem** — ensayo / dry-run
 - [ ] **T-0** — evento
 - [ ] **T+1 sem** — retro + enlaces
