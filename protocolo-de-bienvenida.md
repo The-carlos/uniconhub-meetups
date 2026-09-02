@@ -38,7 +38,7 @@ Una **generación conectándose**.
 - **No** es un evento aislado
 - **No** es un club elitista
 
-Es una comunidad creada por jóvenes del sector tecnológico: gente con ideas, gente que ejecuta, gente que está de todos los niveles.
+Es una comunidad creada por jóvenes del sector tecnológico: gente con ideas, gente que ejecuta, gente que está en todos los niveles.
 
 <!--
 Guion: UniconHub no es "de alguien", es de la comunidad. No importan los
