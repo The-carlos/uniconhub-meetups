@@ -68,6 +68,8 @@ Que alguien no salga de Communities únicamente habiendo escuchado varias presen
 | Riesgo / dependencia | Mitigación | Responsable |
 |---|---|---|
 | App móvil de Unicon Social lista y estable para la fecha | Fijar fecha de corte de features; plan B solo-web | Roni y Rafa |
+| **Video de Unicon Social** — material de apoyo para que Carlos contacte a líderes de comunidades y les venda usar la plataforma (**prioridad alta**: se necesita para las charlas aunque aún no se publique) | Guion + grabación con fecha límite anterior al primer contacto con líderes | _TODO_ |
+| **Publicar los 2 reels** (Real Friends y Unicon Social) en el Instagram de UniconHub | Calendario de publicación; el de Unicon Social puede grabarse antes y publicarse después | _TODO_ |
 | Comunidades y sus eventos/convocatorias cargados en la plataforma antes del evento | Onboarding guiado a cada comunidad con fecha límite | Carlos |
 | Número de comunidades confirmadas para presentar | Lista objetivo + confirmaciones con _[fecha]_ | Carlos |
 | Facilitación de las micropausas/dinámicas (que no se diluyan) | Guion de dinámicas + responsable por bloque | Carlos |
