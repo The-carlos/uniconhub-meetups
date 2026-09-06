@@ -67,9 +67,9 @@ Que alguien no salga de Communities únicamente habiendo escuchado varias presen
 
 | Riesgo / dependencia | Mitigación | Responsable |
 |---|---|---|
-| App móvil de Unicon Social lista y estable para la fecha | Fijar fecha de corte de features; plan B solo-web | _TODO_ |
-| Comunidades y sus eventos/convocatorias cargados en la plataforma antes del evento | Onboarding guiado a cada comunidad con fecha límite | _TODO_ |
-| Número de comunidades confirmadas para presentar | Lista objetivo + confirmaciones con _[fecha]_ | _TODO_ |
-| Facilitación de las micropausas/dinámicas (que no se diluyan) | Guion de dinámicas + responsable por bloque | _TODO_ |
-| Conectividad / WiFi para escaneo de QR y descarga de la app | Confirmar red con Mercado Libre; QR y app precargables | _TODO_ |
-| Aforo y logística del Town Hall | Confirmar con Mercado Libre | _TODO_ |
+| App móvil de Unicon Social lista y estable para la fecha | Fijar fecha de corte de features; plan B solo-web | Roni y Rafa |
+| Comunidades y sus eventos/convocatorias cargados en la plataforma antes del evento | Onboarding guiado a cada comunidad con fecha límite | Carlos |
+| Número de comunidades confirmadas para presentar | Lista objetivo + confirmaciones con _[fecha]_ | Carlos |
+| Facilitación de las micropausas/dinámicas (que no se diluyan) | Guion de dinámicas + responsable por bloque | Carlos |
+| Conectividad / WiFi para escaneo de QR y descarga de la app | Confirmar red con Mercado Libre; QR y app precargables | Carlos |
+| Aforo y logística del Town Hall | Confirmar con Mercado Libre | Carlos |
