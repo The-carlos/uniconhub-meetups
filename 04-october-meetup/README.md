@@ -1,8 +1,9 @@
-# Edición 04 — Octubre 2026
+# Edición 04 — Communities · Octubre 2026
 
 | | |
 |---|---|
 | **Número de edición** | 04 |
+| **Nombre** | Communities |
 | **Fecha** | Viernes 16 de octubre de 2026, desde las 15:00 |
 | **Venue / host** | Town Hall, oficinas de Mercado Libre (edificio Melitlan) |
 | **Aforo** | _por definir_ |
