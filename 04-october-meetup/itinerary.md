@@ -24,11 +24,14 @@
 | _00:00_ | Estreno de episodio de podcast | _TODO_ | _—_ |
 | _00:00_ | Cierre | _TODO_ | _—_ |
 
-## Speakers
+## Comunidades participantes
 
-| Speaker | Tema | Estado | Contacto |
+El pipeline de comunidades candidatas (con descripción y recomendación de fit) vive en
+[`comunidades.md`](comunidades.md). Aquí van solo las **confirmadas**, con su slot.
+
+| Comunidad | Representa | Estado | Contacto |
 |---|---|---|---|
-| _TODO_ | _TODO_ | Tentativo | _—_ |
+| _TODO_ | _TODO_ | Candidata | _—_ |
 
 ## Logística
 
