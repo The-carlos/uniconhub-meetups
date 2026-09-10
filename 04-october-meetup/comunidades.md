@@ -135,3 +135,72 @@ LinkedIn tras login; no leídos directamente. Confirmar próximos eventos y uso 
 Social con la comunidad.
 -->
 
+---
+
+## Radar — comunidades a explorar (CDMX)
+
+Resultado de una búsqueda rápida (sep 2026, fuentes: Meetup, gdg.community.dev, Luma,
+sitios propios). **No** son candidatas todavía: es una lista para que Carlos decida a
+quién contactar. Marcas: ⭐ priorizar · 🔎 explorar · ⏭️ probablemente no encaja.
+
+### Cloud / plataformas
+
+- ⭐ **GDG CDMX** (Google Developer Groups) — [gdg.community.dev/gdg-cdmx](https://gdg.community.dev/gdg-cdmx/).
+  Charlas mensuales de Mobile/Web/AI/Cloud, 1000+ personas, **DevFest** cada diciembre.
+  Tiene sub-capítulos **GDG Cloud Mexico City** y **GDG on Campus / GDG IPN** (estudiantil).
+  Muy activa y con cultura de co-organización → ideal para promo cruzada.
+
+### Lenguajes / frameworks / dev
+
+- ⭐ **Python CDMX** — [pythoncdmx.org](https://pythoncdmx.org/). Meetup mensual, ya usan
+  **Luma** para su calendario. Bien organizada, comunidad grande y constante.
+- 🔎 **Pythonista** — [meetup.com/pythonista](https://www.meetup.com/pythonista/). Enfoque en
+  análisis de datos, comunidad hispanohablante (~2.3k Meetup, organiza Dulce Ambrocio).
+- 🔎 **GitTogether CDMX** (GitHub) — [meetup.com/github-cdmx](https://www.meetup.com/github-cdmx/).
+  Evento mensual "de devs para devs".
+- 🔎 **Eventloop** (~4.6k devs) y **NodeBots México** (~1.4k) — mundo JS/Node.
+- 🔎 **NSCoder México** (~985) — iOS/Swift.
+
+### IA / ML
+
+- ⭐ **AI Tinkerers Mexico City** — [mexico-city.aitinkerers.org](https://mexico-city.aitinkerers.org/).
+  Política "no slides, running code only": demos de builders, agentes LLM, visión por
+  computadora. Encaja fuerte con el "gente que construye en serio" de UniconHub.
+- 🔎 **AI/IA CDMX** — [meetup.com/ai-cdmx](https://www.meetup.com/es/ai-cdmx/). El grupo
+  generalista de IA más grande (2.2k+), de charlas para principiantes a temas avanzados.
+- 🔎 **México City AI, ML & Computer Vision Meetup** — data scientists / ML engineers.
+
+### Mujeres en tech / diversidad
+
+- 🔎 **R-Ladies CDMX** — [meetup.com/rladies-cdmx](https://www.meetup.com/rladies-cdmx/).
+  Parte de R-Ladies Global, perspectiva de género, foco en #RStats (audiencia algo nicho).
+- 🔎 **Women in Tech Mexico City** (WomenTech Network) — eventos y networking.
+- 🔎 **Dev Day 4 Women (DD4W)** — evento para mujeres en STEM ([Luma](https://luma.com/rg7imt3n)).
+- ⏭️ **Women Who Code CDMX** — la organización global **cerró** operaciones; el capítulo local
+  ya no está activo.
+
+### Estudiantiles / universitarias
+
+- 🔎 **CriptoUNAM** — [meetup.com/cryptocrewmexico](https://www.meetup.com/es-es/cryptocrewmexico/).
+  Estudiantes y académicos de la UNAM en cripto/blockchain/Web3, con hackathons. Buen alcance
+  universitario si la edición quiere ese ángulo.
+- (ver también **GDG IPN** arriba y las AWS SBG IPN/UNAM, ya candidatas)
+
+### Ágil / producto / comunidad general
+
+- 🔎 **Agiles México** (~7.5k) — la más grande, pero foco en agilidad/proceso, menos en construir.
+- 🔎 **CDMX Tech Meetup** — startups presentan producto cada mes.
+
+### Otras verticales
+
+- 🔎 **México City Cybersecurity Meetup Group** — infosec / ciberseguridad.
+- 🔎 **WordPress México / WordPress Day CDMX** — [events.wordpress.org/cdmx](https://events.wordpress.org/cdmx/2026/wordpress-day/).
+- ⏭️ **Laboratoria**, **HackademyMX** — son programas de formación / bootcamps más que
+  comunidades; encajan poco con el criterio 1, pero podrían aportar como aliados.
+
+<!--
+Búsqueda web sep 2026. Cifras y estado (activa/inactiva) aproximados; verificar antes de
+contactar. Falta revisar: comunidades de datos, Go/Rust, Kotlin/Android, diseño/UX con
+identidad propia.
+-->
+
