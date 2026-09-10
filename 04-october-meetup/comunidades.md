@@ -75,8 +75,8 @@ Formato por comunidad (Carlos comparte la info, el asistente redacta descripció
   estructurada **#CertOps** de clases semanales rumbo a certificación (clases 3–5 en
   ago–sep 2026, 57–78 asistentes por sesión).
 
-- **Nota de Carlos:** para AWS IPN, la "postulación" en Unicon Social debe ser **doble** —
-  _confirmar a qué se refiere (¿dos convocatorias distintas? ¿speakers + nuevos miembros?)._
+- **Condición de Carlos:** si se les da espacio, la charla es **una sola, conjunta** entre
+  ambas comunidades — no dos charlas independientes.
 
 - **Recomendación (fit): ✅ Buen fit.**
   - Comunidades tech reales, estudiantiles, con identidad clara y respaldo del programa
