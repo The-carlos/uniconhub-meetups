@@ -137,6 +137,44 @@ Social con la comunidad.
 
 ---
 
+### Google Developer Group CDMX (GDG CDMX)
+
+- **Estado:** Candidata
+- **Redes:** [IG @gdg_cdmx](https://www.instagram.com/gdg_cdmx/) ·
+  [LinkedIn](https://www.linkedin.com/company/gdg-cdmx/) ·
+  [Página oficial](https://gdg.community.dev/gdg-cdmx/)
+- **Organizadores / contacto:** el capítulo lo llevan tres personas —
+  **Malinali Becerril** (GDG Organizer, trabaja en Scopely), **Enrique Diaz** (Codeflux AI) e
+  **Israel Silva** (emprendedor). No hay un único "líder"; el punto de entrada natural es
+  Malinali como GDG Organizer. _Contacto directo por confirmar._
+- **Descripción:** capítulo de Ciudad de México de los **Google Developer Groups**, la red
+  global de comunidades de desarrolladores respaldada por Google. **~4,100 miembros.** Muy
+  activa: varios eventos al mes (workshops, club de lectura de papers de IA, fundamentos de
+  matemáticas para IA, desarrollo web con IA) y organiza el **DevFest CDMX** cada diciembre
+  —el evento comunitario más grande del año— junto con GDG Cloud CDMX y GDG IPN. Colabora
+  habitualmente con Google Developers, Supabase, Women Techmakers, GDG IPN y organismos
+  públicos.
+- **Recomendación (fit): ✅ Buen fit** — con una salvedad de audiencia.
+  - Comunidad tech real con identidad clarísima y respaldo institucional (Google)
+    _(criterio 1)_.
+  - De las más **activas** de la ciudad: agenda semanal, DevFest anual _(criterio 2)_.
+  - Flujo constante de eventos que podría publicar en Unicon Social, incluido DevFest
+    (diciembre) como próximo evento grande justo después de Communities _(criterio 3)_.
+  - Cultura de **co-organización** con muchos aliados → muy abierta a colaboración cruzada y
+    a recibir/enviar speakers _(criterio 4)_.
+  - **Salvedad (criterio 5):** es la candidata con **mayor solape de audiencia** con
+    UniconHub (ambas son comunidades tech generalistas de CDMX). El valor aquí es más
+    **alcance, credibilidad y promo cruzada** que "público nuevo". Aun así, con 4,100
+    miembros el alcance incremental es real.
+  - A confirmar: contacto directo y disposición a usar Unicon Social _(criterio 6)_.
+
+<!--
+Fuente: gdg.community.dev/gdg-cdmx (sep 2026) + búsqueda web. Instagram/LinkedIn tras login;
+no leídos directamente. Verificar organizadores y cifras al contactar.
+-->
+
+---
+
 ## Radar — comunidades a explorar (CDMX)
 
 Resultado de una búsqueda rápida (sep 2026, fuentes: Meetup, gdg.community.dev, Luma,
@@ -145,10 +183,9 @@ quién contactar. Marcas: ⭐ priorizar · 🔎 explorar · ⏭️ probablemente
 
 ### Cloud / plataformas
 
-- ⭐ **GDG CDMX** (Google Developer Groups) — [gdg.community.dev/gdg-cdmx](https://gdg.community.dev/gdg-cdmx/).
-  Charlas mensuales de Mobile/Web/AI/Cloud, 1000+ personas, **DevFest** cada diciembre.
-  Tiene sub-capítulos **GDG Cloud Mexico City** y **GDG on Campus / GDG IPN** (estudiantil).
-  Muy activa y con cultura de co-organización → ideal para promo cruzada.
+- ✅ **GDG CDMX** — ya es **candidata** (ver arriba).
+- 🔎 Sus sub-capítulos **GDG Cloud Mexico City** y **GDG on Campus / GDG IPN** (estudiantil)
+  podrían sumarse o co-presentar.
 
 ### Lenguajes / frameworks / dev
 
