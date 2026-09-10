@@ -175,6 +175,45 @@ no leídos directamente. Verificar organizadores y cifras al contactar.
 
 ---
 
+### Women Techmakers México (WTM MX)
+
+- **Estado:** Candidata
+- **Redes:** [IG @wtm.mx](https://www.instagram.com/wtm.mx/) ·
+  [Facebook](https://www.facebook.com/wtmmxoficial/) ·
+  [Luma (calendario nacional)](https://luma.com/calendar/cal-PFQS63iK3cyvHsG) ·
+  [YouTube](https://www.youtube.com/channel/UCmhzemdQvjsk02Zmot8PQpQ)
+- **Contacto:** _TODO — se organiza por una red de **Ambassadors**; falta identificar a la(s)
+  persona(s) que coordinan CDMX._
+- **Descripción:** capítulo mexicano de **Women Techmakers**, la iniciativa de Google (desde
+  2014) para apoyar y visibilizar a las mujeres en tecnología. En México funciona con una
+  **red de embajadoras** que organizan eventos en varias ciudades. Su evento insignia es el
+  **IWD (Día Internacional de la Mujer)** cada marzo —en 2024/2025 con sedes en ~13 ciudades
+  y un evento final nacional— y la gira **IWD Camino por LATAM**. Muy ligada a los GDG
+  (el IWD CDMX se ha hecho en oficinas de Google con GDG Cloud CDMX).
+- **Recomendación (fit): ⚠️ Fit parcial** — hay que resolver dos cosas antes.
+  - Identidad y respaldo claros (Google), y aporta el ángulo de **mujeres en tech** con una
+    marca reconocida _(criterios 1 y 5)_.
+  - **Cadencia estacional:** su actividad se concentra en **marzo (IWD)**. El calendario
+    nacional de Luma se veía **sin eventos próximos** en septiembre. Hay que confirmar que
+    tengan algo que presentar o promover en la ventana **oct–dic** y no solo en marzo
+    _(criterios 2 y 3)_.
+  - **Solape con GDG CDMX:** WTM MX co-organiza habitualmente con los GDG. Si GDG CDMX ya
+    presenta, conviene decidir si WTM va **en su propio espacio**, **co-presenta con GDG**
+    (como AWS IPN+UNAM), o entra en otra edición.
+  - **Solape temático con Chidas Tech:** dos comunidades de mujeres en tech en la misma
+    edición puede ser intencional (refuerzo) o sentirse repetitivo — es decisión de
+    curaduría de Carlos. Nota: WTM es institucional/embajadoras; Chidas Tech es de base y
+    más joven, así que no son idénticas.
+  - A confirmar: contacto y disposición a usar Unicon Social _(criterio 6)_.
+
+<!--
+Fuente: búsqueda web + Luma del calendario nacional (sep 2026, se veía vacío). Instagram/
+Facebook tras login; no leídos directamente. Verificar coordinación de CDMX y actividad
+fuera de marzo al contactar.
+-->
+
+---
+
 ## Radar — comunidades a explorar (CDMX)
 
 Resultado de una búsqueda rápida (sep 2026, fuentes: Meetup, gdg.community.dev, Luma,
