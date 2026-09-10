@@ -99,3 +99,35 @@ estaban tras login y no se pudieron leer directamente; las descripciones se basa
 en Meetup. Verificar cifras y el rol exacto de cada líder con Grace y Daniel.
 -->
 
+---
+
+### Chidas Tech
+
+- **Estado:** Candidata
+- **Redes:** [IG @chidastech](https://www.instagram.com/chidastech/) ·
+  [LinkedIn](https://www.linkedin.com/company/chidas-tech/) ·
+  [Luma](https://luma.com/2wfh2a8y) (eventos)
+- **Contacto:** _TODO — a través de IG / LinkedIn; nombres de las organizadoras por confirmar
+  (aparecen Miyelli y Tania Gayosso como parte de la comunidad)._
+- **Descripción:** comunidad enfocada en **más niñas y mujeres en STEM**. ~1,300 seguidoras
+  en Instagram. Es una comunidad **joven**: su primer evento presencial, *"CHIDASTECH: Our
+  first commit"*, fue en las oficinas de **Google México** y reunió a ~104 asistentes, con
+  formato de charlas de speakers. Activa en redes y con presencia en Luma para convocar a sus
+  eventos.
+- **Recomendación (fit): ✅ Buen fit** — con un par de cosas a confirmar.
+  - Comunidad tech real, con identidad y propósito muy claros (mujeres y niñas en STEM)
+    _(criterio 1)_.
+  - Aporta al ecosistema el ángulo de **diversidad y representación** que UniconHub no cubre
+    de forma dedicada, y trae un público nuevo _(criterio 5, fuerte)_.
+  - Que sea chica y nueva **no la descalifica**: Communities existe justo para dar visibilidad
+    a comunidades que la gente todavía no conoce, y son las que más se benefician.
+  - A confirmar con ellas: cadencia de actividad y qué han construido más allá del primer
+    evento _(criterio 2)_; si tienen **próximos eventos u oportunidades** para publicar en
+    Unicon Social _(criterio 3)_; disposición a usar la plataforma _(criterio 6)_.
+
+<!--
+Fuente: página de Luma del evento "Our first commit" + búsqueda web (sep 2026). Instagram y
+LinkedIn tras login; no leídos directamente. Confirmar organizadoras, cadencia y próximos
+eventos con la comunidad.
+-->
+
