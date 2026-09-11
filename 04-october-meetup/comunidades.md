@@ -109,7 +109,8 @@ en Meetup. Verificar cifras y el rol exacto de cada líder con Grace y Daniel.
   [Luma](https://luma.com/2wfh2a8y) (eventos)
 - **Líder:** **Ana Cifuentes Sánchez** —
   [IG @anacifuentessz](https://www.instagram.com/anacifuentessz/) ·
-  [LinkedIn](https://www.linkedin.com/in/ana-cifuentes-sanchez/). Trabaja en **AWS**.
+  [LinkedIn](https://www.linkedin.com/in/ana-cifuentes-sanchez/). Trabaja en **AWS** (DevOps
+  Engineer) y es también **co-fundadora de Cloud Native CDMX** (ver más abajo).
   (En la comunidad también aparecen Miyelli y Tania Gayosso.)
 - **Descripción:** comunidad enfocada en **más niñas y mujeres en STEM**. Difunde ciencia y
   tecnología en redes para motivar a niñas, adolescentes y mujeres a entrar a STEM, y realiza
@@ -214,6 +215,52 @@ fuera de marzo al contactar.
 
 ---
 
+### Cloud Native CDMX
+
+- **Estado:** Candidata
+- **Redes:** [IG @cloudnative_cdmx](https://www.instagram.com/cloudnative_cdmx/) ·
+  [LinkedIn](https://www.linkedin.com/company/cloud-native-mexico-city/) ·
+  [Comunidad CNCF](https://community.cncf.io/cloud-native-mexico-city/) ·
+  [Call for Speakers](https://sessionize.com/cloud-native-mexico-city/) — contacto:
+  cncgcdmx@gmail.com
+- **Líderes / organizadores fundadores:**
+  - **Ana Guadalupe Cifuentes Sánchez** (AWS DevOps Engineer) —
+    [LinkedIn](https://www.linkedin.com/in/ana-cifuentes-sanchez/). **Es la misma Ana de
+    Chidas Tech** (arriba) — un puente directo entre esta candidata, Chidas Tech y el mundo AWS.
+  - **Abraham Alfaro Sosa** (AWS Cloud Support Engineer) — [LinkedIn](https://www.linkedin.com/in/abalso/).
+  - Carlos Z. Reyes (Red Hat Technical Account Manager) también es co-fundador, aunque el
+    usuario no lo mencionó.
+- **Descripción:** capítulo oficial de la **CNCF** (Cloud Native Computing Foundation) en
+  Ciudad de México — comunidad **vendor-neutral** sobre Kubernetes, GitOps, DevSecOps,
+  observabilidad, platform engineering y el resto del ecosistema CNCF. Es un capítulo
+  **muy nuevo**: se creó formalmente a finales de diciembre de 2025. Ya tiene un **Call for
+  Speakers abierto** (hasta el 31 de dic 2026) para eventos virtuales el **6–8 de octubre**
+  y el **5 de noviembre de 2026** — este último cae justo después de Communities. Aclaración
+  importante: existe un grupo viejo y **inactivo desde 2020** en Meetup.com ("Cloud Native
+  Mexico", 821 miembros, otro organizador) que **no es este capítulo** — no contactar por ahí.
+- **Recomendación (fit): ✅ Buen fit**, apostando a una comunidad nueva.
+  - Identidad y misión clarísimas, respaldo oficial de la CNCF, vendor-neutral
+    _(criterio 1)_.
+  - **Justo lo que busca Communities:** tienen una **convocatoria de speakers activa ahora
+    mismo** para publicar en Unicon Social, con evento el 5 de noviembre _(criterio 3, muy
+    fuerte)_.
+  - Al ser tan nueva, **no hay historial largo** que mostrar todavía —el "qué han construido"
+    es sobre todo la comunidad misma y su primer CFP _(criterio 2, a matizar)_.
+  - Explícitamente busca apoyar a ingenieros junior y ser inclusiva → abierta a colaboración
+    _(criterio 4)_.
+  - Público de cloud-native/DevOps/SRE: complementa bien, poco solapado con UniconHub
+    _(criterio 5)_.
+  - Bono: Ana Cifuentes conecta esta comunidad con **Chidas Tech** y el ecosistema **AWS**
+    (SBG IPN/UNAM) — vale la pena hablar con ella primero, cubre varios frentes a la vez.
+
+<!--
+Fuentes: sessionize.com/cloud-native-mexico-city, GitHub cncf/communitygroups#593 (solicitud
+de alta del capítulo, dic 2025), meetup.com/cloud-native-mexico (grupo viejo, no es este).
+Instagram/LinkedIn tras login, no leídos directamente. Verificar con Ana o Abraham.
+-->
+
+---
+
 ## Radar — comunidades a explorar (CDMX)
 
 Resultado de una búsqueda rápida (sep 2026, fuentes: Meetup, gdg.community.dev, Luma,
@@ -273,6 +320,15 @@ quién contactar. Marcas: ⭐ priorizar · 🔎 explorar · ⏭️ probablemente
 - 🔎 **WordPress México / WordPress Day CDMX** — [events.wordpress.org/cdmx](https://events.wordpress.org/cdmx/2026/wordpress-day/).
 - ⏭️ **Laboratoria**, **HackademyMX** — son programas de formación / bootcamps más que
   comunidades; encajan poco con el criterio 1, pero podrían aportar como aliados.
+
+Ideas:
+
+  - FinOps
+  - Anthropic Cesar
+  - AWSpectrum.
+  - Womens diversity.
+  - Python cdmx
+  - data pub
 
 <!--
 Búsqueda web sep 2026. Cifras y estado (activa/inactiva) aproximados; verificar antes de
