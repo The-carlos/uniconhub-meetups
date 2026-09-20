@@ -196,20 +196,18 @@ no leídos directamente. Verificar organizadores y cifras al contactar.
   **IWD (Día Internacional de la Mujer)** cada marzo —en 2024/2025 con sedes en ~13 ciudades
   y un evento final nacional— y la gira **IWD Camino por LATAM**. Muy ligada a los GDG
   (el IWD CDMX se ha hecho en oficinas de Google con GDG Cloud CDMX).
-- **Recomendación (fit): ⚠️ Fit parcial** — hay que resolver dos cosas antes.
+- **Recomendación (fit): ✅ Buen fit** — confirmado por Carlos de primera mano.
   - Identidad y respaldo claros (Google), y aporta el ángulo de **mujeres en tech** con una
     marca reconocida _(criterios 1 y 5)_.
-  - **Cadencia estacional:** su actividad se concentra en **marzo (IWD)**. El calendario
-    nacional de Luma se veía **sin eventos próximos** en septiembre. Hay que confirmar que
-    tengan algo que presentar o promover en la ventana **oct–dic** y no solo en marzo
-    _(criterios 2 y 3)_.
-  - **Solape con GDG CDMX:** WTM MX co-organiza habitualmente con los GDG. GDG CDMX está
-    **en pausa** por ahora, así que este solape deja de ser un problema para esta edición.
-  - **Solape temático con Chidas Tech:** dos comunidades de mujeres en tech en la misma
-    edición puede ser intencional (refuerzo) o sentirse repetitivo — es decisión de
-    curaduría de Carlos. Nota: WTM es institucional/embajadoras; Chidas Tech es de base y
-    más joven, así que no son idénticas.
-  - A confirmar: contacto y disposición a usar Unicon Social _(criterio 6)_.
+  - Mi búsqueda no encontró eventos próximos en su Luma nacional (actividad pública
+    concentrada en marzo/IWD), pero Carlos confirma que hay algo real que promover en esta
+    ventana _(criterios 2 y 3, resueltos por conocimiento directo)_.
+  - Solape con GDG CDMX ya no aplica (GDG está en pausa).
+  - **Nota de curaduría que sigue en pie:** dos comunidades de mujeres en tech en la misma
+    edición (WTM + Chidas Tech) puede ser intencional (refuerzo) — no son idénticas: WTM es
+    institucional/embajadoras, Chidas Tech es de base y más joven.
+  - A confirmar: contacto directo (persona que coordina CDMX) y disposición a usar Unicon
+    Social _(criterio 6)_.
 
 <!--
 Fuente: búsqueda web + Luma del calendario nacional (sep 2026, se veía vacío). Instagram/
@@ -285,16 +283,14 @@ Instagram/LinkedIn tras login, no leídos directamente. Verificar con Ana o Abra
   son **"Community Calls" virtuales** —la que compartiste fue el 27 de nov de 2025, con
   agenda de bienvenida + presentación + Q&A—, y la asistencia requiere estar **registrado
   como miembro de la FinOps Foundation**, lo cual es más restrictivo que un meetup abierto.
-- **Recomendación (fit): ⚠️ Fit parcial** — el activo más fuerte es la líder, no tanto el
-  formato de comunidad.
+- **Recomendación (fit): ✅ Buen fit** — confirmado por Carlos de primera mano.
   - Tema **muy complementario**: FinOps (finanzas de la nube) es un ángulo que ninguna otra
     candidata cubre, y trae público de ingeniería + finanzas/ops _(criterio 5, fuerte)_.
   - Barbara es una speaker excepcionalmente activa y con currícula sólida — como *persona*
     encaja perfecto con "gente que ejecuta" _(criterio 4, vía ella)_.
-  - **A confirmar:** actividad de la comunidad en 2026 más allá de la call de nov 2025
-    _(criterio 2)_, si hay una próxima community call u otra convocatoria que publicar en
-    Unicon Social _(criterio 3)_, y si el requisito de ser miembro de la FinOps Foundation
-    limitaría el "postularse" abierto que busca Communities _(criterio 6)_.
+  - Mi búsqueda solo encontró una community call pública (nov 2025) y el requisito de ser
+    miembro de la FinOps Foundation para asistir, pero Carlos confirma que el fit es real
+    _(criterios 2, 3 y 6, resueltos por conocimiento directo)_.
   - Vale la pena aclarar con ella si presenta **a nombre de FinOps México** o más bien como
     especialista individual —cualquiera de las dos funciona, pero cambia qué se publica en
     Unicon Social.
