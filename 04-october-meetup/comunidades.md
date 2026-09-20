@@ -26,6 +26,11 @@ o comunidad de producto, solapamiento casi total con UniconHub, o temática fuer
 
 ## Lista
 
+> **Lista de candidatas cerrada (20 sep 2026).** Quedaron 6 candidatas activas + 1 en pausa
+> (GDG CDMX). Siguiente paso: contacto/confirmación de cada una — mover su estado a
+> `Contactada` / `Confirmada` aquí, y a las confirmadas pasarlas a la tabla de
+> [`itinerary.md`](itinerary.md).
+
 <!--
 Formato por comunidad (Carlos comparte la info, el asistente redacta descripción + recomendación):
 
@@ -329,22 +334,19 @@ actividad de FinOps México en 2026 más allá de lo citado; confirmar con Barba
   problemas reales, para impulsar un cambio positivo y equitativo en la industria y la
   sociedad. LinkedIn la cataloga como "E-Learning Providers", equipo de 2-10 personas.
   No encontré evidencia pública de eventos recientes o próximos.
-- **Recomendación (fit): ⚠️ Fit parcial** — misión alineada, pero poca evidencia verificable
-  de actividad, y es la **tercera candidata** con foco en mujeres/diversidad.
+- **Recomendación (fit): ✅ Buen fit** — confirmado por Carlos de primera mano (conoce la
+  actividad real de la comunidad más allá de lo que hay públicamente indexado).
   - Identidad y propósito claros: diversidad + Cloud/IA _(criterio 1)_.
   - Adriana es **Community Builder de AWS** → conexión adicional con AWS SBG IPN/UNAM y con
     Cloud Native CDMX; Lan aporta experiencia formal en equidad laboral y organización
     _(criterio 4, favorable)_.
-  - **Sin evidencia pública** de eventos, talleres o actividad reciente que confirme
-    cadencia _(criterio 2)_ ni próximos eventos/oportunidades para Unicon Social
-    _(criterio 3)_ — hay que preguntarles directamente.
-  - **Concentración temática:** ya hay dos candidatas de mujeres/diversidad en tech —
-    Chidas Tech (base, niñas y mujeres en STEM) y Women Techmakers México (institucional,
-    Google). Sumar Woman Diversity da un enfoque de **Cloud/IA + diversidad** distinto a
-    las otras dos, pero vale la pena que Carlos decida cuántos espacios de este tema
-    quiere en una sola edición.
-  - A confirmar: actividad 2026, próximos eventos, y disposición a usar Unicon Social
-    _(criterios 2, 3 y 6)_.
+  - Mi búsqueda web no encontró evidencia pública de eventos (IG/LinkedIn tras login, canal
+    de YouTube no verificable con mis herramientas), pero Carlos da fe de que la actividad y
+    el fit son reales _(criterios 2 y 3, resueltos por conocimiento directo)_.
+  - **Nota de curaduría que sigue en pie:** es la tercera candidata con foco en
+    mujeres/diversidad (junto a Chidas Tech y Women Techmakers México) — sigue siendo
+    decisión de Carlos cuántos espacios de ese tema entran en una sola edición.
+  - A confirmar: disposición a usar Unicon Social _(criterio 6)_.
 
 <!--
 Fuente: LinkedIn (about) + búsqueda web (sep 2026). Instagram tras login, no leído
