@@ -140,7 +140,7 @@ Social con la comunidad.
 
 ### Google Developer Group CDMX (GDG CDMX)
 
-- **Estado:** Candidata
+- **Estado:** En pausa _(decisión de Carlos, 20 sep 2026 — se quita del lineup de momento)_
 - **Redes:** [IG @gdg_cdmx](https://www.instagram.com/gdg_cdmx/) ·
   [LinkedIn](https://www.linkedin.com/company/gdg-cdmx/) ·
   [Página oficial](https://gdg.community.dev/gdg-cdmx/)
@@ -198,9 +198,8 @@ no leídos directamente. Verificar organizadores y cifras al contactar.
     nacional de Luma se veía **sin eventos próximos** en septiembre. Hay que confirmar que
     tengan algo que presentar o promover en la ventana **oct–dic** y no solo en marzo
     _(criterios 2 y 3)_.
-  - **Solape con GDG CDMX:** WTM MX co-organiza habitualmente con los GDG. Si GDG CDMX ya
-    presenta, conviene decidir si WTM va **en su propio espacio**, **co-presenta con GDG**
-    (como AWS IPN+UNAM), o entra en otra edición.
+  - **Solape con GDG CDMX:** WTM MX co-organiza habitualmente con los GDG. GDG CDMX está
+    **en pausa** por ahora, así que este solape deja de ser un problema para esta edición.
   - **Solape temático con Chidas Tech:** dos comunidades de mujeres en tech en la misma
     edición puede ser intencional (refuerzo) o sentirse repetitivo — es decisión de
     curaduría de Carlos. Nota: WTM es institucional/embajadoras; Chidas Tech es de base y
@@ -303,6 +302,44 @@ actividad de FinOps México en 2026 más allá de lo citado; confirmar con Barba
 
 ---
 
+### Woman Diversity
+
+- **Estado:** Candidata
+- **Redes:** [IG @woman_diversity](https://www.instagram.com/woman_diversity/) ·
+  [LinkedIn](https://www.linkedin.com/company/womandiversity/) (1,583 seguidores)
+- **Fundadoras (hermanas):**
+  - **Adri** — [IG @adi.di.avila](https://www.instagram.com/adi.di.avila/)
+  - **Lan** — [IG @di.armendariz](https://www.instagram.com/di.armendariz/)
+  - _No encontré nada público que confirme sus nombres completos o rol exacto más allá de lo
+    que compartiste; son datos de Carlos, no verificados de forma independiente._
+- **Descripción:** comunidad enfocada en la **inclusión y participación plena de mujeres y
+  personas diversas** en roles técnicos y de liderazgo. Según su LinkedIn, busca generar
+  sinergia entre conocimiento técnico de **Cloud Computing e IA** y la resolución de
+  problemas reales, para impulsar un cambio positivo y equitativo en la industria y la
+  sociedad. LinkedIn la cataloga como "E-Learning Providers", equipo de 2-10 personas.
+  No encontré evidencia pública de eventos recientes o próximos.
+- **Recomendación (fit): ⚠️ Fit parcial** — misión alineada, pero poca evidencia verificable
+  de actividad, y es la **tercera candidata** con foco en mujeres/diversidad.
+  - Identidad y propósito claros: diversidad + Cloud/IA _(criterio 1)_.
+  - **Sin evidencia pública** de eventos, talleres o actividad reciente que confirme
+    cadencia _(criterio 2)_ ni próximos eventos/oportunidades para Unicon Social
+    _(criterio 3)_ — hay que preguntarles directamente.
+  - **Concentración temática:** ya hay dos candidatas de mujeres/diversidad en tech —
+    Chidas Tech (base, niñas y mujeres en STEM) y Women Techmakers México (institucional,
+    Google). Sumar Woman Diversity da un enfoque de **Cloud/IA + diversidad** distinto a
+    las otras dos, pero vale la pena que Carlos decida cuántos espacios de este tema
+    quiere en una sola edición.
+  - A confirmar: actividad 2026, próximos eventos, y disposición a usar Unicon Social
+    _(criterios 2, 3 y 6)_.
+
+<!--
+Fuente: LinkedIn (about) + búsqueda web (sep 2026). Instagram tras login, no leído
+directamente. Fundadoras (Adri y Lan) según datos de Carlos, no verificadas de forma
+independiente. No se encontró evidencia pública de eventos.
+-->
+
+---
+
 ## Radar — comunidades a explorar (CDMX)
 
 Resultado de una búsqueda rápida (sep 2026, fuentes: Meetup, gdg.community.dev, Luma,
@@ -311,7 +348,7 @@ quién contactar. Marcas: ⭐ priorizar · 🔎 explorar · ⏭️ probablemente
 
 ### Cloud / plataformas
 
-- ✅ **GDG CDMX** — ya es **candidata** (ver arriba).
+- ⏸ **GDG CDMX** — perfil hecho, **en pausa** por ahora (ver arriba).
 - 🔎 Sus sub-capítulos **GDG Cloud Mexico City** y **GDG on Campus / GDG IPN** (estudiantil)
   podrían sumarse o co-presentar.
 
