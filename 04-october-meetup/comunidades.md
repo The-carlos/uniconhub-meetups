@@ -261,6 +261,48 @@ Instagram/LinkedIn tras login, no leídos directamente. Verificar con Ana o Abra
 
 ---
 
+### FinOps México
+
+- **Estado:** Candidata
+- **Redes:** [Foundation global IG @finopsfoundation_f2](https://www.instagram.com/finopsfoundation_f2/)
+  _(ojo: el sufijo "_f2" es raro para una cuenta oficial — confirmar que es la real antes de
+  usarla como referencia)_ · [Community Calls (events.finops.org)](https://events.finops.org/event/mexico-finops-community-call/)
+- **Líder:** **Barbara Gaspar** (Bárbara Gáspar Gaona) —
+  [IG @barbara_gspr](https://www.instagram.com/barbara_gspr/) ·
+  [LinkedIn](https://www.linkedin.com/in/barbaragaspargaona/) ·
+  [DEV.to](https://dev.to/barbara_gaspar). FinOps Specialist en Ciudad de México, trabaja en
+  **Capgemini Engineering**. Tiene **todas las certificaciones de la FinOps Foundation**,
+  7 años de experiencia en FinOps/cloud ops (AWS, Azure, GCP), autora de 7 libros de
+  tecnología/FinOps, y ganó el badge **"Most Active Speaker 2025"** en Sessionize —es una
+  speaker muy prolífica.
+- **Descripción:** **FinOps México** es el capítulo local de la **FinOps Foundation**
+  (proyecto de la Linux Foundation), enfocado en gestión financiera de la nube (cost
+  optimization, GreenOps, cloud FinOps para ejecutivos e ingenieros). Su formato principal
+  son **"Community Calls" virtuales** —la que compartiste fue el 27 de nov de 2025, con
+  agenda de bienvenida + presentación + Q&A—, y la asistencia requiere estar **registrado
+  como miembro de la FinOps Foundation**, lo cual es más restrictivo que un meetup abierto.
+- **Recomendación (fit): ⚠️ Fit parcial** — el activo más fuerte es la líder, no tanto el
+  formato de comunidad.
+  - Tema **muy complementario**: FinOps (finanzas de la nube) es un ángulo que ninguna otra
+    candidata cubre, y trae público de ingeniería + finanzas/ops _(criterio 5, fuerte)_.
+  - Barbara es una speaker excepcionalmente activa y con currícula sólida — como *persona*
+    encaja perfecto con "gente que ejecuta" _(criterio 4, vía ella)_.
+  - **A confirmar:** actividad de la comunidad en 2026 más allá de la call de nov 2025
+    _(criterio 2)_, si hay una próxima community call u otra convocatoria que publicar en
+    Unicon Social _(criterio 3)_, y si el requisito de ser miembro de la FinOps Foundation
+    limitaría el "postularse" abierto que busca Communities _(criterio 6)_.
+  - Vale la pena aclarar con ella si presenta **a nombre de FinOps México** o más bien como
+    especialista individual —cualquiera de las dos funciona, pero cambia qué se publica en
+    Unicon Social.
+
+<!--
+Fuentes: events.finops.org (evento de nov 2025), sessionize.com/barbara-gaspar, búsqueda web
+(sep 2026). Instagram tras login, no leído directamente. No se encontró evidencia pública de
+actividad de FinOps México en 2026 más allá de lo citado; confirmar con Barbara.
+-->
+
+---
+
 ## Radar — comunidades a explorar (CDMX)
 
 Resultado de una búsqueda rápida (sep 2026, fuentes: Meetup, gdg.community.dev, Luma,
