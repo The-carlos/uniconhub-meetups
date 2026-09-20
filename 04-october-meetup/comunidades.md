@@ -308,10 +308,17 @@ actividad de FinOps México en 2026 más allá de lo citado; confirmar con Barba
 - **Redes:** [IG @woman_diversity](https://www.instagram.com/woman_diversity/) ·
   [LinkedIn](https://www.linkedin.com/company/womandiversity/) (1,583 seguidores)
 - **Fundadoras (hermanas):**
-  - **Adri** — [IG @adi.di.avila](https://www.instagram.com/adi.di.avila/)
-  - **Lan** — [IG @di.armendariz](https://www.instagram.com/di.armendariz/)
-  - _No encontré nada público que confirme sus nombres completos o rol exacto más allá de lo
-    que compartiste; son datos de Carlos, no verificados de forma independiente._
+  - **Adriana Di Avila** — [IG @adi.di.avila](https://www.instagram.com/adi.di.avila/) ·
+    [LinkedIn](https://www.linkedin.com/in/adriana-di-avila/). Cloud Software Engineer,
+    ex-Intel, y **Community Builder de AWS en IA** — otro puente con el ecosistema AWS
+    (como AWS SBG IPN/UNAM y Cloud Native CDMX).
+  - **Lan Díaz** — [IG @di.armendariz](https://www.instagram.com/di.armendariz/) ·
+    [LinkedIn](https://www.linkedin.com/in/diazlan/). Formación en Diseño Visual y
+    Comunicación, y en Sociología (Cultura y Organización Social) por la **UNAM**; +8 años
+    de experiencia en cultura organizacional, equidad laboral (normas ORSC, Great Place to
+    Work, NMX-R-025 de igualdad laboral y no discriminación) y metodologías Agile/Scrum.
+  - Ambas comparten el apellido **Díaz**, consistente con lo que dijiste de que son hermanas
+    (no lo confirmé de forma independiente más allá de eso).
 - **Descripción:** comunidad enfocada en la **inclusión y participación plena de mujeres y
   personas diversas** en roles técnicos y de liderazgo. Según su LinkedIn, busca generar
   sinergia entre conocimiento técnico de **Cloud Computing e IA** y la resolución de
@@ -321,6 +328,9 @@ actividad de FinOps México en 2026 más allá de lo citado; confirmar con Barba
 - **Recomendación (fit): ⚠️ Fit parcial** — misión alineada, pero poca evidencia verificable
   de actividad, y es la **tercera candidata** con foco en mujeres/diversidad.
   - Identidad y propósito claros: diversidad + Cloud/IA _(criterio 1)_.
+  - Adriana es **Community Builder de AWS** → conexión adicional con AWS SBG IPN/UNAM y con
+    Cloud Native CDMX; Lan aporta experiencia formal en equidad laboral y organización
+    _(criterio 4, favorable)_.
   - **Sin evidencia pública** de eventos, talleres o actividad reciente que confirme
     cadencia _(criterio 2)_ ni próximos eventos/oportunidades para Unicon Social
     _(criterio 3)_ — hay que preguntarles directamente.
