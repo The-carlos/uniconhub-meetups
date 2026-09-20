@@ -306,7 +306,11 @@ actividad de FinOps México en 2026 más allá de lo citado; confirmar con Barba
 
 - **Estado:** Candidata
 - **Redes:** [IG @woman_diversity](https://www.instagram.com/woman_diversity/) ·
-  [LinkedIn](https://www.linkedin.com/company/womandiversity/) (1,583 seguidores)
+  [LinkedIn](https://www.linkedin.com/company/womandiversity/) (1,583 seguidores) ·
+  [YouTube @WomanDiversityTech](https://www.youtube.com/@WomanDiversityTech)
+  _(no pude leer el contenido del canal —videos, suscriptores, cadencia— con mis
+  herramientas; alguien tendría que revisarlo directamente para ver si aporta evidencia de
+  actividad)_
 - **Fundadoras (hermanas):**
   - **Adriana Di Avila** — [IG @adi.di.avila](https://www.instagram.com/adi.di.avila/) ·
     [LinkedIn](https://www.linkedin.com/in/adriana-di-avila/). Cloud Software Engineer,
