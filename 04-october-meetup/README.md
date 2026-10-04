@@ -1,8 +1,9 @@
-# Edición 04 — Octubre 2026
+# Edición 04 — Communities · Octubre 2026
 
 | | |
 |---|---|
 | **Número de edición** | 04 |
+| **Nombre** | Communities |
 | **Fecha** | Viernes 16 de octubre de 2026, desde las 15:00 |
 | **Venue / host** | Town Hall, oficinas de Mercado Libre (edificio Melitlan) |
 | **Aforo** | _por definir_ |
@@ -12,7 +13,8 @@
 ## Archivos
 
 - [`objective.md`](objective.md) — el "por qué" de esta edición
-- [`itinerary.md`](itinerary.md) — agenda, speakers y logística
+- [`itinerary.md`](itinerary.md) — agenda, comunidades confirmadas y logística
+- [`comunidades.md`](comunidades.md) — pipeline de comunidades candidatas + recomendación de fit
 - [`bienvenida-extra.md`](bienvenida-extra.md) — borrador para slides extra (si hacen falta)
 
 El deck de bienvenida es el [`../protocolo-de-bienvenida.md`](../protocolo-de-bienvenida.md)
