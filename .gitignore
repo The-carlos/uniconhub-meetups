@@ -1,0 +1,11 @@
+# Slides exportadas
+dist/
+*.pdf
+*.pptx
+*.html
+
+# macOS
+.DS_Store
+
+# Node (por si se usa marp-cli local en el futuro)
+node_modules/
