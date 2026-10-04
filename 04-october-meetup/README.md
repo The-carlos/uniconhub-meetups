@@ -13,7 +13,8 @@
 ## Archivos
 
 - [`objective.md`](objective.md) — el "por qué" de esta edición
-- [`itinerary.md`](itinerary.md) — agenda, speakers y logística
+- [`itinerary.md`](itinerary.md) — agenda, comunidades confirmadas y logística
+- [`comunidades.md`](comunidades.md) — pipeline de comunidades candidatas + recomendación de fit
 - [`bienvenida-extra.md`](bienvenida-extra.md) — borrador para slides extra (si hacen falta)
 
 El deck de bienvenida es el [`../protocolo-de-bienvenida.md`](../protocolo-de-bienvenida.md)
