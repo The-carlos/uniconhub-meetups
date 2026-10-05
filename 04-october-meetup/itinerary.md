@@ -14,34 +14,34 @@
 
 ## Agenda
 
-> **Cuarta iteración.** Así como está, termina a las **19:35**, 35 min después del
+> **Quinta iteración.** Así como está, termina a las **19:50**, 50 min después del
 > límite interno de las 19:00. Se va a ir ajustando.
 
 | Hora | Bloque | Responsable | Notas |
 |---|---|---|---|
 | 14:45–15:15 | Registro y check-in | _TODO_ | _—_ |
-| 15:15–15:30 | Bienvenida: presentación de UniconHub | _TODO_ | Deck: `protocolo-de-bienvenida.md` |
-| 15:30–15:55 | Charla 1 · AWS Student Builder Groups IPN + UNAM | AWS SBG IPN + UNAM | 20 min charla + 5 min preguntas. Charla única conjunta |
-| 15:55–16:00 | Pausa | _—_ | _—_ |
-| 16:00–16:25 | Charla 2 · Chidas Tech | Chidas Tech | 20 + 5 |
-| 16:25–16:30 | Pausa | _—_ | _—_ |
-| 16:30–16:50 | Intervención UniconHub: **Real Friends** | _TODO_ | Dinámica de escaneo de QR entre asistentes. Va primero para detonar la interacción desde temprano |
-| 16:50–16:55 | Pausa | _—_ | _—_ |
-| 16:55–17:20 | Charla 3 · Cloud Native CDMX | Cloud Native CDMX | 20 + 5 |
-| 17:20–17:25 | Pausa | _—_ | _—_ |
-| 17:25–17:50 | Charla 4 · Women Techmakers México | Women Techmakers México | 20 + 5 |
-| 17:50–17:55 | Pausa | _—_ | _—_ |
-| 17:55–18:15 | Intervención UniconHub: **Unicon Social** | _TODO_ | Lanzamiento de la plataforma. Invitar a instalar la app. Video de Unicon Social |
-| 18:15–18:20 | Pausa | _—_ | _—_ |
-| 18:20–18:45 | Charla 5 · FinOps México | FinOps México | 20 + 5 |
-| 18:45–18:50 | Pausa | _—_ | _—_ |
-| 18:50–19:15 | Charla 6 · Woman Diversity | Woman Diversity | 20 + 5 |
-| 19:15–19:20 | Pausa | _—_ | _—_ |
-| 19:20–19:35 | Cierre | _TODO_ | _—_ |
+| 15:15–15:45 | Bienvenida: presentación de UniconHub | _TODO_ | Deck: `protocolo-de-bienvenida.md` |
+| 15:45–16:10 | Charla 1 · AWS Student Builder Groups IPN + UNAM | AWS SBG IPN + UNAM | 20 min charla + 5 min preguntas. Charla única conjunta |
+| 16:10–16:15 | Pausa | _—_ | _—_ |
+| 16:15–16:40 | Charla 2 · Chidas Tech | Chidas Tech | 20 + 5 |
+| 16:40–16:45 | Pausa | _—_ | _—_ |
+| 16:45–17:05 | Intervención UniconHub: **Real Friends** | _TODO_ | Dinámica de escaneo de QR entre asistentes. Va primero para detonar la interacción desde temprano |
+| 17:05–17:10 | Pausa | _—_ | _—_ |
+| 17:10–17:35 | Charla 3 · Cloud Native CDMX | Cloud Native CDMX | 20 + 5 |
+| 17:35–17:40 | Pausa | _—_ | _—_ |
+| 17:40–18:05 | Charla 4 · Women Techmakers México | Women Techmakers México | 20 + 5 |
+| 18:05–18:10 | Pausa | _—_ | _—_ |
+| 18:10–18:30 | Intervención UniconHub: **Unicon Social** | _TODO_ | Lanzamiento de la plataforma. Invitar a instalar la app. Video de Unicon Social |
+| 18:30–18:35 | Pausa | _—_ | _—_ |
+| 18:35–19:00 | Charla 5 · FinOps México | FinOps México | 20 + 5 |
+| 19:00–19:05 | Pausa | _—_ | _—_ |
+| 19:05–19:30 | Charla 6 · Woman Diversity | Woman Diversity | 20 + 5 |
+| 19:30–19:35 | Pausa | _—_ | _—_ |
+| 19:35–19:50 | Cierre | _TODO_ | _—_ |
 
 **Supuestos de esta versión** (por validar):
 
-- Registro desde las 14:45, 15 min antes de la hora oficial; bienvenida de 15 min justo después.
+- Registro desde las 14:45, 15 min antes de la hora oficial; bienvenida de 30 min justo después (termina a las 15:45).
 - Charlas de 25 min: 20 de charla y 5 de preguntas.
 - Intervenciones de UniconHub de 20 min; cierre de 15 min.
 - Pausa de 5 min entre cada bloque a partir de la primera charla.
@@ -53,12 +53,12 @@ El pipeline de comunidades candidatas (con descripción y recomendación de fit)
 
 | Comunidad | Representa | Estado | Contacto |
 |---|---|---|---|
-| AWS Student Builder Groups IPN + UNAM (Charla 1, 15:30) | _TODO_ | Candidata | _—_ |
-| Chidas Tech (Charla 2, 16:00) | _TODO_ | Candidata | _—_ |
-| Cloud Native CDMX (Charla 3, 16:55) | _TODO_ | Candidata | _—_ |
-| Women Techmakers México (Charla 4, 17:25) | _TODO_ | Candidata | _—_ |
-| FinOps México (Charla 5, 18:20) | _TODO_ | Candidata | _—_ |
-| Woman Diversity (Charla 6, 18:50) | _TODO_ | Candidata | _—_ |
+| AWS Student Builder Groups IPN + UNAM (Charla 1, 15:45) | _TODO_ | Candidata | _—_ |
+| Chidas Tech (Charla 2, 16:15) | _TODO_ | Candidata | _—_ |
+| Cloud Native CDMX (Charla 3, 17:10) | _TODO_ | Candidata | _—_ |
+| Women Techmakers México (Charla 4, 17:40) | _TODO_ | Candidata | _—_ |
+| FinOps México (Charla 5, 18:35) | _TODO_ | Candidata | _—_ |
+| Woman Diversity (Charla 6, 19:05) | _TODO_ | Candidata | _—_ |
 
 ## Logística
 
