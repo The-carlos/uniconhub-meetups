@@ -4,7 +4,7 @@
 |---|---|
 | **Número de edición** | 04 |
 | **Nombre** | Communities |
-| **Fecha** | Viernes 16 de octubre de 2026, desde las 15:00 |
+| **Fecha** | Viernes 16 de octubre de 2026, desde las 15:00 (registro desde las 14:45) |
 | **Venue / host** | Town Hall, oficinas de Mercado Libre (edificio Melitlan) |
 | **Aforo** | _por definir_ |
 | **Estado** | Planeación |
